@@ -1,0 +1,8 @@
+GIT AND GITHUB - REPO RUSH
+
+Student Name: Sahil Vilas Patil
+GitHub Username: SahilPatil06
+Course: TY BCA
+Assignment: Assignment 1 - Activity 1
+
+I am learning Git commands and GitHub repository management.
